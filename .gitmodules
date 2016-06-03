@@ -1,0 +1,6 @@
+[submodule "docugen"]
+	path = docugen
+	url = git@github.com:gbraad/docugen.git
+[submodule "B2G-build"]
+	path = B2G-build
+	url = git@github.com:gbraad/B2G-build.git
