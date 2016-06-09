@@ -7,3 +7,6 @@
 [submodule "gauth"]
 	path = gauth
 	url = git@github.com:gbraad/gauth.git
+[submodule "dev"]
+	path = dev
+	url = git@github.com:gbraad/docker-dev.git
